@@ -1,7 +1,7 @@
 name: ds_env
 channels:  
   - defaults
-dependecis:
+dependecies:
   - numpy
   - pandas
   - scikit-learn
