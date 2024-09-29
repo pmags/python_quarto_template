@@ -1,0 +1,11 @@
+name: ds_env
+channels:  
+  - defaults
+dependecis:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - dateutilgit
